@@ -1,1 +1,1 @@
-# Q3-SQL-Project
+This SQL end-to-end project, undertaken as part of the Q3 Final Project in collaboration with GUVI Institute and IITM-Madras, demonstrates comprehensive skills in database management, query optimization, and data analysis. The project addresses a series of complex queries, covering a wide range of SQL concepts and techniques.
